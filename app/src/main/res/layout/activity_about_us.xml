@@ -24,7 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Este aplicación es para reservas de habitaciones para la empresa de Aroma's Hostal. ">
+            android:text="Hola, estamos oferteando las habitacion enn el hostal aromnas, aproveha y vvisitanos ">
 
         </TextView>
         <TextView
@@ -53,7 +53,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="@string/autor3_equipodedes">
+            android:text="Yolisaaaaaaa corrige">
 
         </TextView>
     </LinearLayout>
