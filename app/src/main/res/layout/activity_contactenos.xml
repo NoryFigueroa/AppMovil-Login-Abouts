@@ -5,20 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ContactenosActivity">
-
-    <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Aceptar"
-        tools:layout_editor_absoluteX="103dp"
-        tools:layout_editor_absoluteY="131dp" />
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Contactenos"
-        tools:layout_editor_absoluteX="54dp"
-        tools:layout_editor_absoluteY="43dp" />
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Contactenos Ahora!!!!"></TextView>
+    </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
