@@ -32,6 +32,11 @@ public class Users {
         n.username = "daisy";
         n.password = "12345678";
         list.add(n);
+
+        Users n = new Users();
+        n.username = "maria";
+        n.password = "123456";
+        list.add(n);
         return list;
     }
 }
