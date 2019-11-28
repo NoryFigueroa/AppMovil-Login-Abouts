@@ -33,10 +33,10 @@ public class Users {
         n.password = "12345678";
         list.add(n);
 
-        Users n = new Users();
-        n.username = "maria";
+        Users u = new Users();
+        u.username = "maria";
         n.password = "123456";
-        list.add(n);
+        list.add(u);
         return list;
     }
 }
